@@ -4,5 +4,8 @@
             "App\\": "app/"
         }
     },
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/console": "^5.4"
+    }
 }
